@@ -1,0 +1,15 @@
+package com.app;
+
+import com.functionalIntefaces.I1;
+import com.functionalIntefaces.I2;
+
+public class C1 {
+    public void submit(I1 i1) {
+	System.out.println("insyd submit(i1)====");
+    }
+    
+    public void submit(I2 i2) {
+	System.out.println("insyd submit(i2)====");
+    }
+
+}
