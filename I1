@@ -1,0 +1,7 @@
+package com.functionalIntefaces;
+
+@FunctionalInterface
+public interface I1 {
+    public void f1();
+
+}
